@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521762372 source:/home/norder/dev/codeblocks-workspace/DataFileStats/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+	<iterator>
+

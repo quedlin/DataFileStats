@@ -1,0 +1,4 @@
+headername1	headername2	headername3
+alma	korte	szilva
+barackkkk	v	alfabetadeltagamma
+bimbo	544	testing
